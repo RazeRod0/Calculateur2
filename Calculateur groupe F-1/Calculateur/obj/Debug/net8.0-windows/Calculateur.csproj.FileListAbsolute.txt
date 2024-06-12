@@ -1,0 +1,36 @@
+C:\Users\RazeRod\source\repos\Calculateur\Calculateur\bin\Debug\net8.0-windows\Calculateur.exe
+C:\Users\RazeRod\source\repos\Calculateur\Calculateur\bin\Debug\net8.0-windows\Calculateur.deps.json
+C:\Users\RazeRod\source\repos\Calculateur\Calculateur\bin\Debug\net8.0-windows\Calculateur.runtimeconfig.json
+C:\Users\RazeRod\source\repos\Calculateur\Calculateur\bin\Debug\net8.0-windows\Calculateur.dll
+C:\Users\RazeRod\source\repos\Calculateur\Calculateur\bin\Debug\net8.0-windows\Calculateur.pdb
+C:\Users\RazeRod\source\repos\Calculateur\Calculateur\obj\Debug\net8.0-windows\Calculateur.Form1.resources
+C:\Users\RazeRod\source\repos\Calculateur\Calculateur\obj\Debug\net8.0-windows\Calculateur.csproj.GenerateResource.cache
+C:\Users\RazeRod\source\repos\Calculateur\Calculateur\obj\Debug\net8.0-windows\Calculateur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RazeRod\source\repos\Calculateur\Calculateur\obj\Debug\net8.0-windows\Calculateur.AssemblyInfoInputs.cache
+C:\Users\RazeRod\source\repos\Calculateur\Calculateur\obj\Debug\net8.0-windows\Calculateur.AssemblyInfo.cs
+C:\Users\RazeRod\source\repos\Calculateur\Calculateur\obj\Debug\net8.0-windows\Calculateur.csproj.CoreCompileInputs.cache
+C:\Users\RazeRod\source\repos\Calculateur\Calculateur\obj\Debug\net8.0-windows\Calculateur.dll
+C:\Users\RazeRod\source\repos\Calculateur\Calculateur\obj\Debug\net8.0-windows\refint\Calculateur.dll
+C:\Users\RazeRod\source\repos\Calculateur\Calculateur\obj\Debug\net8.0-windows\Calculateur.pdb
+C:\Users\RazeRod\source\repos\Calculateur\Calculateur\obj\Debug\net8.0-windows\Calculateur.genruntimeconfig.cache
+C:\Users\RazeRod\source\repos\Calculateur\Calculateur\obj\Debug\net8.0-windows\ref\Calculateur.dll
+C:\Users\RazeRod\source\repos\Calculateur\Calculateur\obj\Debug\net8.0-windows\Calculateur.sourcelink.json
+C:\Users\RazeRod\source\repos\Calculateur\Calculateur\obj\Debug\net8.0-windows\Calculateur.FormNotice.resources
+C:\Users\RazeRod\Desktop\Calculateur groupe F-1\Calculateur\bin\Debug\net8.0-windows\Calculateur.exe
+C:\Users\RazeRod\Desktop\Calculateur groupe F-1\Calculateur\bin\Debug\net8.0-windows\Calculateur.deps.json
+C:\Users\RazeRod\Desktop\Calculateur groupe F-1\Calculateur\bin\Debug\net8.0-windows\Calculateur.runtimeconfig.json
+C:\Users\RazeRod\Desktop\Calculateur groupe F-1\Calculateur\bin\Debug\net8.0-windows\Calculateur.dll
+C:\Users\RazeRod\Desktop\Calculateur groupe F-1\Calculateur\bin\Debug\net8.0-windows\Calculateur.pdb
+C:\Users\RazeRod\Desktop\Calculateur groupe F-1\Calculateur\obj\Debug\net8.0-windows\Calculateur.Form1.resources
+C:\Users\RazeRod\Desktop\Calculateur groupe F-1\Calculateur\obj\Debug\net8.0-windows\Calculateur.FormNotice.resources
+C:\Users\RazeRod\Desktop\Calculateur groupe F-1\Calculateur\obj\Debug\net8.0-windows\Calculateur.csproj.GenerateResource.cache
+C:\Users\RazeRod\Desktop\Calculateur groupe F-1\Calculateur\obj\Debug\net8.0-windows\Calculateur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RazeRod\Desktop\Calculateur groupe F-1\Calculateur\obj\Debug\net8.0-windows\Calculateur.AssemblyInfoInputs.cache
+C:\Users\RazeRod\Desktop\Calculateur groupe F-1\Calculateur\obj\Debug\net8.0-windows\Calculateur.AssemblyInfo.cs
+C:\Users\RazeRod\Desktop\Calculateur groupe F-1\Calculateur\obj\Debug\net8.0-windows\Calculateur.csproj.CoreCompileInputs.cache
+C:\Users\RazeRod\Desktop\Calculateur groupe F-1\Calculateur\obj\Debug\net8.0-windows\Calculateur.sourcelink.json
+C:\Users\RazeRod\Desktop\Calculateur groupe F-1\Calculateur\obj\Debug\net8.0-windows\Calculateur.dll
+C:\Users\RazeRod\Desktop\Calculateur groupe F-1\Calculateur\obj\Debug\net8.0-windows\refint\Calculateur.dll
+C:\Users\RazeRod\Desktop\Calculateur groupe F-1\Calculateur\obj\Debug\net8.0-windows\Calculateur.pdb
+C:\Users\RazeRod\Desktop\Calculateur groupe F-1\Calculateur\obj\Debug\net8.0-windows\Calculateur.genruntimeconfig.cache
+C:\Users\RazeRod\Desktop\Calculateur groupe F-1\Calculateur\obj\Debug\net8.0-windows\ref\Calculateur.dll
